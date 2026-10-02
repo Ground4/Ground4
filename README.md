@@ -13,3 +13,14 @@ Network tester&Alpha Pro user
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-22c55e?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-22c55e?style=for-the-badge&logo=Python&logoColor=white)
+
+### 📊 Моя статистика GitHub
+
+<p align="center">
+  <img src="https://vercel.app" alt="Основная статистика" width="48%" />
+  <img src="https://vercel.app" alt="Используемые языки" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="Дни активности подряд" width="97%" />
+</p>
