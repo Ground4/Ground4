@@ -17,8 +17,8 @@ Network tester&Alpha Pro user
 ### 📊 Моя статистика GitHub
 
 <p align="center">
-  <img src="https://vercel.app" alt="Основная статистика" width="48%" />
-  <img src="https://vercel.app" alt="Используемые языки" width="48%" />
+  <img src="https://shion.dev" alt="Основная статистика" width="48%" />
+  <img src="https://shion.dev" alt="Используемые языки" width="48%" />
 </p>
 
 <p align="center">
