@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm Ground4
 
-<!--
-**Ground4/Ground4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network tester&Alpha Pro user 
 
-Here are some ideas to get you started:
+Сrypto enthusiast and engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tizoc)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Musickaz2014)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@thugkz_2543)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:westoldg7021@gmail.com)
+
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/Java-22c55e?style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-22c55e?style=for-the-badge&logo=Python&logoColor=white)
