@@ -14,13 +14,13 @@ Network tester&Alpha Pro user
 ![Java](https://img.shields.io/badge/Java-22c55e?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-22c55e?style=for-the-badge&logo=Python&logoColor=white)
 
-### 📊 Моя статистика GitHub
+### 📊 Моя активность GitHub
 
 <p align="center">
-  <img src="https://shion.dev" alt="Основная статистика" width="48%" />
-  <img src="https://shion.dev" alt="Используемые языки" width="48%" />
+  <img src="https://vercel.app" alt="Трофеи" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Дни активности подряд" width="97%" />
+  <img src="http://vercel.app" alt="Детали профиля" width="48%" />
+  <img src="http://vercel.app" alt="Языки коммитов" width="48%" />
 </p>
