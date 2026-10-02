@@ -1,0 +1,26 @@
+name: Auto Green Calendar
+
+on:
+  schedule:
+    # Скрипт будет запускаться автоматически каждый день в 12:00 UTC
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Позволяет запускать скрипт вручную кнопкой
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Make changes to log file
+      run: |
+        echo "Update: $(date)" >> daily_log.txt
+
+    - name: Commit and Push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add daily_log.txt
+        git commit -m "chore: update daily contribution graph [skip ci]"
+        git push
