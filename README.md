@@ -17,10 +17,6 @@ Network tester&Alpha Pro user
 ### 📊 Моя активность GitHub
 
 <p align="center">
-  <img src="https://vercel.app" alt="Трофеи" width="100%" />
-</p>
-
-<p align="center">
-  <img src="http://vercel.app" alt="Детали профиля" width="48%" />
-  <img src="http://vercel.app" alt="Языки коммитов" width="48%" />
+  <img src="https://vercel.app" alt="Статистика Ground4" width="48%" />
+  <img src="https://vercel.app" alt="Языки Ground4" width="48%" />
 </p>
